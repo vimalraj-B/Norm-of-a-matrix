@@ -45,7 +45,7 @@ print(norm)
 
 
 
-```
+
 ## Output:
 ### 1-Norm of a Matrix
 
